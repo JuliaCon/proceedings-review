@@ -2,11 +2,11 @@
 
 ### Conflict of interest
 
-- [ ] I confirm that I have read the [JuliaCon conflict of interest policy]([https://proceedings.juliacon.org/guide/authors#coi](https://juliacon.github.io/proceedings-guide/reviewer/#conflict_of_interest)) and that: I have no COIs with reviewing this work or that any perceived COIs have been waived by JCon for the purpose of this review.
+- [ ] I confirm that I have read the [JuliaCon conflict of interest policy](https://juliacon.github.io/proceedings-guide/reviewer/#conflict_of_interest) and that: I have no COIs with reviewing this work or that any perceived COIs have been waived by JCon for the purpose of this review.
 
 ### Code of Conduct
 
-- [ ] I confirm that I read and will adhere to the [JuliaCon code of conduct]([https://proceedings.juliacon.org/coc](https://juliacon.github.io/proceedings-guide/reviewer/#code_of_conduct).
+- [ ] I confirm that I read and will adhere to the [JuliaCon code of conduct](https://juliacon.github.io/proceedings-guide/reviewer/#code_of_conduct).
 
 ### General checks
 
