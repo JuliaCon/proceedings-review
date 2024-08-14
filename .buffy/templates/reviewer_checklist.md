@@ -32,7 +32,7 @@
 ### Paper format
 
 - [ ] **Authors:** Does the `paper.pdf` file include a list of authors with their affiliations?
-- [ ] **A statement of need:** Does the paper clearly state what problems it is designed to solve, who the target audience is, and its relation to other work?
+- [ ] **A statement of need:** Does the paper clearly explain the problem it addresses, its importance to the broader community, the intended audience, and how it connects to existing work in the field?
 - [ ] **References:**  Do all archival references that should have a DOI list one (e.g., papers, datasets, software)?
 
 ### Content
