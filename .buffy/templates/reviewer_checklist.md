@@ -31,8 +31,8 @@
 
 ### Paper format
 
-- [ ] **Authors:** Does the `paper.tex` file include a list of authors with their affiliations?
-- [ ] **A statement of need:** Does the paper have a section titled 'Statement of need' that clearly states what problems the software is designed to solve, who the target audience is, and its relation to other work?
+- [ ] **Authors:** Does the `paper.pdf` file include a list of authors with their affiliations?
+- [ ] **A statement of need:** Does the paper clearly explain the problem it addresses, its importance to the broader community, the intended audience, and how it connects to existing work in the field?
 - [ ] **References:**  Do all archival references that should have a DOI list one (e.g., papers, datasets, software)?
 
 ### Content
